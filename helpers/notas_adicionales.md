@@ -14,7 +14,7 @@
 **Resumen:**  
 - Es recomendable usar **oversampling (SMOTE)** para balancear tu dataset y mejorar la predicción de clientes que abandonan.  
 Luego, compara el desempeño con y sin balanceo para justificar tu elección.
----
+
 **Celda 21**
 - **Normalización**: 
 - Escala los valores numéricos para que estén en un mismo rango (por ejemplo, entre 0 y 1). 
