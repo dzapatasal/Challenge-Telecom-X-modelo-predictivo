@@ -50,7 +50,7 @@ Challenge-Telecom-X-modelo-predictivo/
 Se recomienda el uso de un entorno virtual. Para instalar las dependencias:
 
 ```bash
-python -m venv telcom_env
+python -m venv tu-entorno-virtual
 tu-entorno-virtual\Scripts\activate  # En Windows
 pip install -r requirements.txt
 ```
